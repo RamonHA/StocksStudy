@@ -1,4 +1,6 @@
 dummy/
+results/
+Nonsense_studies/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
